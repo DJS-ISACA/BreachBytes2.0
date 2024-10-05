@@ -1,0 +1,1 @@
+Ever wondered what happens when you wander a little too far in memory? Well, this challenge gives you a chance to push boundaries. Let's see if you can turn a simple array into a full-blown disaster!
