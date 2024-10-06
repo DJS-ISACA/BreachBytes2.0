@@ -1,0 +1,7 @@
+Steps to solve this challenge: 
+1) Find the game shown in the picture 
+2) Game is: spooky pop 
+3) Date of release is December 2014 --> 122014
+4) Released in country --> canada
+
+Flag: DJSISACA{canada_122014}
