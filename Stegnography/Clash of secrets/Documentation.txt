@@ -1,0 +1,11 @@
+Steps to solve this challenge: 
+1) Find the person whose eyes are shown --> Ilkka Paananen
+2) visit this website "https://supercell.com/en/games/clashofclans/"
+3) make a custom wordlist using this cmd: 
+cewl -w pass.txt -m 10 https://supercell.com/en/games/clashofclans/ -d 2
+4) using stegseek --wordlist pass.txt secret.jpg you get the password "Jätkäsaarenlaituri"
+5) when you view the hidden file you get an encrypted flag: 
+LUCSSPCA{S1n4ypl_n0fxn_0ui_wh0_pr34g3h_p0k}
+6) Using the key IlkkaPaananen with Vigenere cipher "https://www.dcode.fr/vigenere-cipher" you get the flag:
+
+DJSISACA{F1n4lly_f0und_0ut_wh0_cr34t3d_c0c}
