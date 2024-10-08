@@ -1,0 +1,1 @@
+From `unpack` our senior devs have learnt it the hard way that secret keys shouldn't be hardcoded. This time they have really raised the bar, they decided to use randomness to encrypt the flag, where only the fortunate can decrypt it.

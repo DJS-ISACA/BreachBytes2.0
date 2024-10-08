@@ -1,0 +1,1 @@
+Our senior devs believe that any sensitive algorithm in the code base should be encrypted. So they did exactly that. Good luck :D
