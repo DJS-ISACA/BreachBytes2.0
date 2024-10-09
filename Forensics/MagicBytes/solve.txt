@@ -1,0 +1,11 @@
+1) Read the problem statement thoroughly, we get to know that the bytes which need to be replaced by correct magic bytes.
+2) Read image metadata: exiftool miner.png
+3) Key extracted: minersreachtownhall
+4) Now listen to the audio file, note down the color names
+5) Get the hex codes of the colors, and only note the first 2 characters of the codes
+6) DC 41 22 FF, these are our magic bytes
+7) Replace the corrupted file with our magic bytes: echo -ne '\xDC\x41\x22\xFF' | dd of=corrupted.bin bs=1 count=4 conv=notrunc
+8) Make a program which performs the XOR operation on the corrupted file with the magic bytes using the key found earlier to extract the flag, code attached in folder
+9) Finally apply a rot 7 cipher on the extracted flag to get the original flag
+
+Note: The players need to know the flag length, for which they can count the flag length from THM.
