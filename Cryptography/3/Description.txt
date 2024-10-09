@@ -1,0 +1,3 @@
+The village’s ultimate attack plan is hidden in an encrypted message, sealed with powerful prime numbers and cryptographic secrets. 
+Your mission is to break the code and unleash the strongest troops before the enemy strikes.
+Use the given public parameters and the verification code to unlock the strategy in time.
