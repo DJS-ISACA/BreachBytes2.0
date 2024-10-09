@@ -1,0 +1,6 @@
+The attack is going as planned. But wait—one of our miners has encountered a trap! How will he navigate past it to acquire the Townhall and secure victory in the war? There’s a strategy that miners follow:
+
+See and Analyze the trap.
+Listen to the trap while decoding the lock.
+Replace the trap's malfunctioned parts with the correct sequence and destroy it.
+Our Miner has noticed that certain critical bytes are malfunctioning. Replacing them with the correct sequence will unlock the way forward. Following these steps will guide our Miner to the Townhall and he will recieve a ffee reward. I hope you will assist him in this crucial endeavor!
