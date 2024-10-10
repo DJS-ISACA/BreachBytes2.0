@@ -1,0 +1,4 @@
+Steps to solve this challenge: 
+1) Extract the mp3 from video
+2) Then around 40 sec from the vid there is a flag which is hidden using spectral analysis 
+3) Cover the flag in DJSISACA{msg}

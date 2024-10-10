@@ -1,0 +1,6 @@
+Welcome to "Clash of Clans: The Hidden Tactics"! In this steganography challenge, you’ll navigate through the vibrant world of Clash of Clans to uncover a secret tactical message buried within a video clip.
+
+Task:
+A vital strategy video featuring a sneak peek of an upcoming attack has been modified to hide a crucial message. Your mission is to extract this hidden intel to gain the upper hand for your clan.
+
+Flagformat: DJSISACA{msg}

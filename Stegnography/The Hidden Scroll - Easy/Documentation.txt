@@ -1,0 +1,7 @@
+Steps to solve this challenge: 
+1) Change the file type to jpg/jpeg
+2) use strings to get the first part "strings cocfinal.jpg | grep DJSISACA"
+3) using steghide or stegseek u can get the 2nd part of the flag "stegseek cocfinal.jpg"
+4) For the third part use exiftool "exiftool cocfinal.jpg"
+5) 4th part can be found using binwalk "binwalk cocfinal.jpg"
+6) Combining all u get the flag
