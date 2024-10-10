@@ -1,0 +1,3 @@
+In this CTF challenge, participants must use OSINT techniques to track down the digital breadcrumbs left behind by the rogue hackers. They will scour gaming communities, public profiles of prominent Supercell players, online discussion forums, and in-game data for hidden intel. Players will need to investigate clues like date launched and country.
+
+Flag format: DJSISACA{country_ddmmyyyy}
