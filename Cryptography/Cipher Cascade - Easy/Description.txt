@@ -1,0 +1,1 @@
+You've intercepted a crucial communication between two mysterious agents. The file contains multiple lines of encrypted data, but the encryption scheme is unknown. Your mission is to decrypt the message and uncover the hidden flag.
