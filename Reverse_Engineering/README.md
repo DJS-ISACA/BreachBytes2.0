@@ -2,6 +2,7 @@
 
 ## Challenges
 
-1. recursion
-2. unpack
-3. time-bomb
+1. Intro to rev
+2. recursion
+3. unpack
+4. time-bomb
