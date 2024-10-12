@@ -1,0 +1,5 @@
+go head and pwn it!
+
+*(some level of bruteforcing is required in this challenge)*
+
+LINK : https://tryhackme.com/jr/boot2root_breachbytes2
