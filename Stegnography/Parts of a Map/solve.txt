@@ -1,0 +1,2 @@
+1) Decode the filename, they reveal the order of the broken down parts: Use keccak hash
+2) Use exiftool to extract part of flags in each order
