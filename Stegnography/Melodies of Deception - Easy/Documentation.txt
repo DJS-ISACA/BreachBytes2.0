@@ -1,0 +1,6 @@
+Steps to solve this challenge: 
+1) Use binwalk -e to Extract the hiden img file 
+2) Find the cipher that is used in the img
+3) Use Acere cipher to decode it you get ACEREISFUNTOPLAY
+4) Use this passphrase for extracting the flag with the cmd "steghide extract -sf Untitled.jpg -p ACEREISFUNTOPLAY"
+5) flag.txt extracted
