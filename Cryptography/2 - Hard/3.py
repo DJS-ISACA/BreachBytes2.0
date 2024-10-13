@@ -27,7 +27,7 @@ def _0xB2B2(_0xC3C3):
 def _0xE5E5(_0xF6F6):
     _0x1010 = bytes([_0x1337.randint(0,255) for _ in range(16)])
     _0x1111 = _0x4B4B.new(_0xF6F6, _0x4B4B.MODE_CBC, _0x1010)
-    _0x1212 = _0x6D6D("DJSISACA{Qub1ts_Unl34sh3d_fr0m_th3_F0rg0tt3n_B4se}").encode()
+    _0x1212 = _0x6D6D("Enter your flag").encode()
     return _0x2A2A.b85encode(_0x1010 + _0x1111.encrypt(_0x5C5C(_0x1212, 16))).decode()
 
 # Initializing quantum state
