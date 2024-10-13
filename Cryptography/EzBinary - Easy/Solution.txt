@@ -1,0 +1,2 @@
+Playfair matrix with nothing as key and we substitute each character
+We get the flag
