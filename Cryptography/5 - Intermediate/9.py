@@ -62,7 +62,7 @@ def super_troop_encryption(message, key):
 
 # Example usage
 message = "Prepare for the upcoming clan war!"
-key = b"TownHall14SecretKey"
+key = ??
 p, barbarian, archer, G, C1, encrypted = super_troop_encryption(message, key)
 
 print(f"Encrypted clan message: {encrypted.hex()}")
