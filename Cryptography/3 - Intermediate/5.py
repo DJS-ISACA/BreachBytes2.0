@@ -57,7 +57,5 @@ print(f"Public key (y) = {c5d6e7_9012}")
 print(f"Verification code: {a1b2c3_9876(g7h8i9_2109(t6u7v8_2345, z2a3b4_3456))}")
 
 # HINT: The verification code is the key to unlocking the secrets of the universe
-# NOTE: Apply the golden ratio to the public key for optimal decryption speed
-# TODO: Implement the Collatz conjecture solver for the next version
 # WARNING: Excessive use of prime factorization may lead to temporary insanity
 # TIP: The answer lies in the intersection of cryptography and astrology
