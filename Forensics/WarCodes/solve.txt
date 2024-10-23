@@ -1,0 +1,11 @@
+1) download the 001 file
+2) open it using ftk analyzer
+3) check the file lists
+4) In the recycle bin section, there are some images given
+5) See the metadata of each image
+6) one of the image contains metadata with a gps location and a comment
+7) Open the co ordinates on google maps and u get first part of flag
+8) read the chats file in the file lists
+9) note down the first capital letters of each chat
+10) that is the password for the zip file
+11) download the zip file and extract it, the rest 2 parts of the flag are there.
